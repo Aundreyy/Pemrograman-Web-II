@@ -9,7 +9,7 @@ $samsung = ["Samsung Galaxy S22", "Samsung Galaxy S22+", "Samsung Galaxy A03", "
         border: 1px solid black;
     }
     th, td {
-        padding: 5px;
+        padding: 1.5px;
     }
     th {
         text-align: left;
